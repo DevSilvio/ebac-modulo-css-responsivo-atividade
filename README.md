@@ -10,7 +10,7 @@
 
 ## Sobre
 
-- O site esta disponivel para dispositivos moveis sendo acessivel a tablet e celulares
+- O site esta disponivel para dispositivos moveis sendo responsivo a tablet e celulares
 
 ##
 
