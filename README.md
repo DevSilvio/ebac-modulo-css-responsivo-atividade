@@ -17,7 +17,7 @@
 <p align="center">Clique para ver 👇</p>
 
 <p align="center">
-    <a href="">
+    <a href="https://ebac-modulo-css-responsivo-atividade.vercel.app/">
         <img src="images/ebacShoes.png" alt="Imagem do Site EBAC Shoes"></img>
     </a>
 </p>
